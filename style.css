@@ -65,9 +65,9 @@ li {
 
 .fonts {
 
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
-  white-space: nowrap;
+  
 
 
 }
@@ -107,3 +107,11 @@ li {
 
 
 }
+
+.container {
+  width: 800px; /* Largura desejada */
+  margin: 0 auto; /* Centralizar horizontalmente */
+}
+
+
+
