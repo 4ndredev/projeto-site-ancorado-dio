@@ -1,7 +1,7 @@
 /* Plano de fundo do site */
 body {
-  min-height: 100px;
-  min-width: 100px;
+  min-height: 50px;
+  min-width: 50px;
   overflow-x: hidden;
 }
 
