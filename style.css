@@ -1,0 +1,109 @@
+/* Plano de fundo do site */
+body {
+  min-height: 100px;
+  min-width: 100px;
+  overflow-x: hidden;
+}
+
+/* background da página toda */
+#background {
+  background-image: url(./assets/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 20px;
+}
+
+/* Tudo relacionado ao título("Primeiros passos com HTML etc)*/
+.modulo {
+  text-align: auto;
+  font-size: 51px;
+  background-color: #f6f6ff;
+  border: 1px solid #cccc;
+  border-radius: 25%;
+  display: inline-block;
+  padding: auto;
+}
+
+/* Relacionado ao TEXTO HTML do título */
+.textcolor {
+  color: red;
+  font-family: arial black;
+}
+
+#indice {
+  font-family: arial black;
+}
+
+.menu {
+  width: 300px;
+  margin: 0;
+  border: 10px;
+}
+
+.menu ul {
+  list-style: none;
+
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+#space1 {
+  padding-left: 30px;
+  font-size: 27px;
+  font-family: bold;
+}
+
+.imagemd {
+  width: 200px;
+  height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fonts {
+
+  font-size: 25px;
+  font-weight: bold;
+  white-space: nowrap;
+
+
+}
+
+.tittle1 {
+  background-color: lightblue;
+
+}
+
+.botao {
+
+  background-color: white;
+  padding: px;
+  border: 1px solid #ccc;
+  border-radius: 100px;
+  text-decoration: none;
+  color: red;
+
+}
+
+.botao:hover {
+  background-color: #eaea;
+  color: black;
+}
+
+.topos {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  text-decoration: none;
+  font-family: arial black;
+}
+
+.topos:hover {
+  background-color: #eaea;
+  color: black;
+
+
+}
