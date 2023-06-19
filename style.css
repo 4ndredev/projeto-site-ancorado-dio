@@ -36,6 +36,8 @@ body {
 
 .menu {
 display: flex;
+flex-wrap: wrap;
+  
 }
 
 .menu ul {
