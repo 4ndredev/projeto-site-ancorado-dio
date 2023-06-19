@@ -35,9 +35,9 @@ body {
 }
 
 .menu {
-  width: 300px;
-  margin: 0;
+  width: 30px;
   border: 10px;
+  margin-right: auto;
 }
 
 .menu ul {
@@ -67,7 +67,7 @@ li {
 
   font-size: 20px;
   font-weight: bold;
-  
+
 
 
 }
@@ -109,9 +109,8 @@ li {
 }
 
 .container {
-  width: 800px; /* Largura desejada */
-  margin: 0 auto; /* Centralizar horizontalmente */
+  width: 800px;
+  /* Largura desejada */
+  margin: 0 auto;
+  /* Centralizar horizontalmente */
 }
-
-
-
