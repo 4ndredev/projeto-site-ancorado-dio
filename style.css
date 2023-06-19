@@ -35,9 +35,7 @@ body {
 }
 
 .menu {
-  width: 30px;
-  border: 10px;
-  margin-right: auto;
+display: flex;
 }
 
 .menu ul {
